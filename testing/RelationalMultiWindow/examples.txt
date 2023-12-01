@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=TGI1JWgMwD8
+
+Use case idea:
+Relational applets inside OBS e.g. when 2 applets are placed next to each other they snap together
