@@ -1,0 +1,12 @@
+[package]
+name = "testing"
+version = "0.1.0"
+authors = ["OscarRatcliffe"]
+
+[lib]
+name = "testingRust"
+path = "src/lib.rs"
+crate-type =["cdylib"]
+
+[dependencies]
+wasm-bindgen = "=0.2.81"
