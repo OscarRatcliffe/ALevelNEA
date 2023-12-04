@@ -12,4 +12,5 @@ An app that allows simple design of live stream graphics by providing a suite of
 - Elements auto join when placed next to each other (Custom CSS trigger + relational multi window stuff on backend)
 - Very basic GUI creation elements
 - Web store to get elements
-- API, OSC and midi triggers
+- API, OSC and midi triggers and returns API
+- Built in triggers such as twitch and spotify interations 
